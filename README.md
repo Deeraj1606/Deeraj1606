@@ -1,34 +1,54 @@
-👋 Hi, I’m Deeraj (aka DJ)
+# Hi, I’m **Deeraj Patel** (aka DJ) 👋
 
-👀 Intro:
-Web Development
-C++ Programming
-IoT & embedded systems
+---
 
-💻 Tech Stack
-Frontend: HTML · CSS · JavaScript
-Programming: C++
-IoT / Hardware:
-Arduino
-ESP32
-Sensors & automation
+## 📍 About Me
+- **Roles**: Android Developer • Full‑Stack Web Engineer • IoT/Embedded tinkerer
+- **Passions**: Building user‑centric mobile experiences, interactive scientific simulations, and smart‑hardware projects.
+- **Current focus**: Enhancing the **VoltMate** Android EV‑charging app and expanding the **SCI‑LAB** web simulation engine.
 
-💞️ Open to Collaborate On
-Frontend & creative web projects
-C++ logic-based applications
-IoT-based smart systems & automation ideas
+---
 
-📫 Contact
-Email: deeraj.1606@gmail.com
+## 🛠️ Technical Skills
+| Language / Framework | Experience |
+|-----------------------|------------|
+| **Kotlin / Jetpack Compose** | Android apps, MVVM, Coroutines |
+| **JavaScript / TypeScript** | React, Vite, Next.js, Node.js |
+| **C++ / Arduino** | Embedded firmware, sensor integration |
+| **Firebase** | Auth, Firestore, Storage, Security Rules |
+| **Git / CI‑CD** | GitHub Actions, automated testing |
+| **Cloud / DevOps** | GCP basics, Netlify deployments |
 
-⚡ Fun Fact
-I use my brain to win — not others.
+---
 
-✨ Mindset
-Build for the future.
-Code with purpose.
-Stay a vibe coder.
-<!---
-Deeraj1606/Deeraj1606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 Featured Projects
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **VoltMate** | Open‑source Android app letting EV owners share chargers, with in‑app payments and offline‑first wallet. | Kotlin, Jetpack Compose, Firebase Auth & Firestore |
+| **SCI‑LAB** | Interactive scientific workstation for physics, chemistry, and math simulations (web). | React, TypeScript, Vite, Math.js |
+| **CineCore** | Web‑based movie catalog powered by Firebase Firestore. | JavaScript, Firebase, HTML/CSS |
+| **bbc‑studios** | Next.js starter for media‑rich sites. | Next.js, TypeScript, Tailwind |
+| **Automated‑Smart‑Fan** | Arduino/ESP32 smart fan controller with temperature sensor. | C++, Arduino IDE |
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deeraj1606&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeraj1606&layout=compact&theme=transparent)
+
+---
+
+## 📈 Recent Activity
+<!-- GitHub contribution graph -->
+![Contribution Graph](https://github.com/Deeraj1606/Deeraj1606/blob/main/profile-graph.png?raw=true)
+
+---
+
+## 📫 Contact
+- **Email**: <deeraj.1606@gmail.com>
+- **LinkedIn**: https://www.linkedin.com/in/deeraj-patel
+- **Twitter**: https://twitter.com/Deeraj1606
+
+---
+
+*Build with purpose. Code for the future.*
