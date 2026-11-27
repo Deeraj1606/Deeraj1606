@@ -1,4 +1,4 @@
-﻿# Hi, I'm **Deeraj** (aka DJ) 👋
+ Hi, I'm **Deeraj** (aka DJ) 👋
 
 ## 📖 About Me
 - **Roles**: Android Developer • Full-Stack Web Engineer • IoT/Embedded tinkerer
