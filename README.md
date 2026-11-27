@@ -4,7 +4,6 @@
 Web Development
 C++ Programming
 IoT & embedded systems
-🌱 Currently: 10th grade student 
 
 💻 Tech Stack
 Frontend: HTML · CSS · JavaScript
