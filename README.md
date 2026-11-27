@@ -1,4 +1,4 @@
-# Hi, I’m **Deeraj Patel** (aka DJ) 👋
+# Hi, I’m **Deeraj** (aka DJ) 👋
 
 ---
 
