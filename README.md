@@ -46,7 +46,6 @@
 
 ## 📫 Contact
 - **Email**: <deeraj.1606@gmail.com>
-- **LinkedIn**: https://www.linkedin.com/in/deeraj-patel
 - **Twitter**: https://twitter.com/Deeraj1606
 
 ---
